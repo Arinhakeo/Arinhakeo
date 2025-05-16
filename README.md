@@ -38,9 +38,13 @@ At Holberton School, we focus on mastering the core fundamentals of development.
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="48" height="48"><br>
       <b>SQL</b>
     </td>
+    ;; <td align="center" width="120">
+    ;;   <img [src="https://upload.wikimedia.org/wikipedia/commons/5/51/Gnu-bash-logo.svg](https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/PNG/128x128.png)" width="48" height="48"><br>
+    ;;   <b>Shell</b>
+    ;; </td>
     <td align="center" width="120">
-      <img [src="https://upload.wikimedia.org/wikipedia/commons/5/51/Gnu-bash-logo.svg](https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/PNG/128x128.png)" width="48" height="48"><br>
-      <b>Shell</b>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Gnu-bash-logo.svg" width="60" alt="Bash Shell Logo" />
+      <br /><b>Shell</b>
     </td>
   </tr>
 </table>
